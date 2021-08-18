@@ -1,0 +1,277 @@
+#formable_nations = {
+#
+#	icon = generic_formable_nations
+#
+#	allowed = {
+#		always = yes
+#	}
+#}
+
+form_scandinavia_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_scandinavia
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_nordic_league_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_nordic_league
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_gran_colombia_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_gran_colombia
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_austria_hungary_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_austria_hungary
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_commonwealth_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_commonwealth
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_united_netherlands_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_united_netherlands
+
+	allowed = {
+		OR = {
+			always = yes
+			AND = {
+				always = yes
+				tag = HOL
+			}
+		}
+	}
+}
+
+form_united_central_america_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_united_central_america
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_baltic_federation_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_baltic_federation
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_ottoman_empire_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_ottoman_empire
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_european_union_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_european_union
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_mutapa_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_mutapa
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_roman_empire_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_roman_empire
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_persian_empire_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_persian_empire
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_byzantine_empire_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_byzantine_empire
+
+	allowed = {
+		OR = {
+			always = yes 
+			always = yes
+		}
+	}
+}
+
+form_arabia_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_arabia
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_majapahit_empire_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_majapahit_empire
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_rattanakosin_kingdom_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_rattanakosin_kingdom
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_hre_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_hre
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_greater_german_reich_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_hre
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_andalusia_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_arabia
+
+	allowed = {
+		always = yes
+	}
+}
+
+form_polynesia_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_arabia
+}
+
+form_greater_greece_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_picture_form_greater_greece
+
+	allowed = {
+		#has_dlc = "#TODO"
+	}
+}
+
+form_turan_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_picture_form_turan
+
+	allowed = {
+		#has_dlc = "#TODO"
+	}
+}
+
+form_macedonian_empire_category = {
+
+	icon = generic_formable_nations
+
+	picture = GFX_decision_cat_generic_byzantine_empire
+
+	allowed = {
+		#has_dlc = "#TODO"
+	}
+}

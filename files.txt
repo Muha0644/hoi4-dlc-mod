@@ -1,0 +1,2297 @@
+./changelog.txt
+./common/continuous_focus/generic.txt
+./common/continuous_focus/generic.txt
+./common/continuous_focus/generic.txt
+./common/abilities/generic_leader_abilities.txt
+./common/achievements.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/BUL.txt
+./common/ai_strategy/default.txt
+./common/ai_strategy/default.txt
+./common/ai_strategy/default.txt
+./common/ai_strategy/default.txt
+./common/ai_strategy/default.txt
+./common/ai_strategy/ENG.txt
+./common/ai_strategy/ENG.txt
+./common/ai_strategy/ENG.txt
+./common/ai_strategy/FRA.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GER.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/GRE.txt
+./common/ai_strategy/ITA.txt
+./common/ai_strategy/ITA.txt
+./common/ai_strategy/JAP.txt
+./common/ai_strategy/JAP.txt
+./common/ai_strategy/POR.txt
+./common/ai_strategy/POR.txt
+./common/ai_strategy/POR.txt
+./common/ai_strategy/SOV.txt
+./common/ai_strategy/SOV.txt
+./common/ai_strategy/SOV.txt
+./common/ai_strategy/SOV.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/SPR.txt
+./common/ai_strategy/USA.txt
+./common/ai_strategy/USA.txt
+./common/ai_strategy_plans/AST_alternate_strategy_plan.txt
+./common/ai_strategy_plans/AST_alternate_strategy_plan.txt
+./common/ai_strategy_plans/AST_alternate_strategy_plan.txt
+./common/ai_strategy_plans/AST_historical_strategy_plan.txt
+./common/ai_strategy_plans/BUL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/BUL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/BUL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/BUL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/BUL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/BUL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/BUL_historical_strategy_plan.txt
+./common/ai_strategy_plans/CAN_alternate_strategy_plan.txt
+./common/ai_strategy_plans/CAN_alternate_strategy_plan.txt
+./common/ai_strategy_plans/CAN_alternate_strategy_plan.txt
+./common/ai_strategy_plans/CAN_historical_strategy_plan.txt
+./common/ai_strategy_plans/CHI_alternate_strategy_plan.txt
+./common/ai_strategy_plans/CZE_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/FRA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/GER.txt
+./common/ai_strategy_plans/HUN_alternate.txt
+./common/ai_strategy_plans/HUN_alternate.txt
+./common/ai_strategy_plans/HUN_alternate.txt
+./common/ai_strategy_plans/HUN_alternate.txt
+./common/ai_strategy_plans/HUN_historical_strategy_plan.txt
+./common/ai_strategy_plans/JAP_historical_strategy_plan.txt
+./common/ai_strategy_plans/MEX.txt
+./common/ai_strategy_plans/MEX.txt
+./common/ai_strategy_plans/MEX.txt
+./common/ai_strategy_plans/MEX.txt
+./common/ai_strategy_plans/MEX.txt
+./common/ai_strategy_plans/MEX.txt
+./common/ai_strategy_plans/NZL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/NZL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/NZL_alternate_strategy_plan.txt
+./common/ai_strategy_plans/NZL_historical_strategy_plan.txt
+./common/ai_strategy_plans/RAJ_alternate_strategy_plan.txt
+./common/ai_strategy_plans/RAJ_alternate_strategy_plan.txt
+./common/ai_strategy_plans/RAJ_historical_strategy_plan.txt
+./common/ai_strategy_plans/ROM_alternate_strategy_plans.txt
+./common/ai_strategy_plans/ROM_alternate_strategy_plans.txt
+./common/ai_strategy_plans/ROM_alternate_strategy_plans.txt
+./common/ai_strategy_plans/ROM_historical_strategy_plan.txt
+./common/ai_strategy_plans/SAF_alternate_strategy_plan.txt
+./common/ai_strategy_plans/SAF_alternate_strategy_plan.txt
+./common/ai_strategy_plans/SAF_alternate_strategy_plan.txt
+./common/ai_strategy_plans/SAF_alternate_strategy_plan.txt
+./common/ai_strategy_plans/TUR_alternate_strategy_plan.txt
+./common/ai_strategy_plans/USA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/USA_alternate_strategy_plan.txt
+./common/ai_strategy_plans/USA_historical_strategy_plan.txt
+./common/ai_strategy_plans/YUG_alternate_strategy_plan.txt
+./common/ai_strategy_plans/YUG_alternate_strategy_plan.txt
+./common/ai_strategy_plans/YUG_alternate_strategy_plan.txt
+./common/ai_strategy_plans/YUG_historical_strategy_plan.txt
+./common/ai_strategy_plans/ENG_historical_strategy_plan.txt
+./common/ai_strategy_plans/SAF_historical_strategy_plan.txt
+./common/ai_templates/templates_ENG.txt
+./common/autonomous_states/colony.txt
+./common/autonomous_states/colony.txt
+./common/autonomous_states/dominion.txt
+./common/autonomous_states/dominion.txt
+./common/autonomous_states/integrated_puppet.txt
+./common/autonomous_states/integrated_puppet.txt
+./common/autonomous_states/integrated_puppet.txt
+./common/autonomous_states/lar_collaboration_government.txt
+./common/autonomous_states/puppet.txt
+./common/autonomous_states/reichskommissariat.txt
+./common/autonomous_states/reichskommissariat.txt
+./common/autonomous_states/reichsprotectorate.txt
+./common/autonomous_states/reichsprotectorate.txt
+./common/autonomous_states/satellite.txt
+./common/autonomous_states/satellite.txt
+./common/autonomous_states/supervised_state.txt
+./common/autonomous_states/supervised_state.txt
+./common/autonomous_states/wtt_imperial_associate.txt
+./common/autonomous_states/wtt_imperial_protectorate.txt
+./common/autonomous_states/wtt_imperial_subject.txt
+./common/bookmarks/the_gathering_storm.txt
+./common/bookmarks/the_gathering_storm.txt
+./common/bookmarks/the_gathering_storm.txt
+./common/bookmarks/the_gathering_storm.txt
+./common/bookmarks/the_gathering_storm.txt
+./common/bookmarks/the_gathering_storm.txt
+./common/decisions/BUL.txt
+./common/decisions/BUL.txt
+./common/decisions/BUL.txt
+./common/decisions/BUL.txt
+./common/decisions/BUL.txt
+./common/decisions/BUL.txt
+./common/decisions/BUL.txt
+./common/decisions/categories/00_decision_categories.txt
+./common/decisions/categories/00_decision_categories.txt
+./common/decisions/categories/00_decision_categories.txt
+./common/decisions/categories/00_decision_categories.txt
+./common/decisions/categories/00_decision_categories.txt
+./common/decisions/categories/00_decision_categories.txt
+./common/decisions/categories/00_decision_categories.txt
+./common/decisions/categories/00_decision_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/00_formable_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/BUL_decision_categories.txt
+./common/decisions/categories/CHI_decision_categories.txt
+./common/decisions/categories/GRE_decision_categories.txt
+./common/decisions/categories/GRE_decision_categories.txt
+./common/decisions/categories/GRE_decision_categories.txt
+./common/decisions/categories/GRE_decision_categories.txt
+./common/decisions/categories/GRE_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/HOL_decision_categories.txt
+./common/decisions/categories/JAP_decision_categories.txt
+./common/decisions/categories/MEX_decision_categories.txt
+./common/decisions/categories/MEX_decision_categories.txt
+./common/decisions/categories/MEX_decision_categories.txt
+./common/decisions/categories/MEX_decision_categories.txt
+./common/decisions/categories/POR_decision_categories.txt
+./common/decisions/categories/POR_decision_categories.txt
+./common/decisions/categories/POR_decision_categories.txt
+./common/decisions/categories/POR_decision_categories.txt
+./common/decisions/categories/POR_decision_categories.txt
+./common/decisions/categories/POR_decision_categories.txt
+./common/decisions/categories/POR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/SPR_decision_categories.txt
+./common/decisions/categories/VEN_decision_categories.txt
+./common/decisions/CHI_decisions.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/ENG.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/formable_nation_decisions.txt
+./common/decisions/GER.txt
+./common/decisions/GER.txt
+./common/decisions/GER.txt
+./common/decisions/GRE.txt
+./common/decisions/GRE.txt
+./common/decisions/GRE.txt
+./common/decisions/GRE.txt
+./common/decisions/GRE.txt
+./common/decisions/GRE.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/political_decisions.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/POR.txt
+./common/decisions/resource_prospecting.txt
+./common/decisions/SOV.txt
+./common/decisions/TUR.txt
+./common/decisions/_generic_decisions.txt
+./common/decisions/_generic_decisions.txt
+./common/decisions/_generic_decisions.txt
+./common/decisions/_generic_decisions.txt
+./common/decisions/_generic_decisions.txt
+./common/decisions/_generic_decisions.txt
+./common/decisions/_generic_decisions.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/australia.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/britain.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/british_raj.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/bulgaria.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/canada.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/china_shared.txt
+./common/ideas/comchina.txt
+./common/ideas/comchina.txt
+./common/ideas/comchina.txt
+./common/ideas/comchina.txt
+./common/ideas/czechoslovakia.txt
+./common/ideas/czechoslovakia.txt
+./common/ideas/czechoslovakia.txt
+./common/ideas/czechoslovakia.txt
+./common/ideas/czechoslovakia.txt
+./common/ideas/czechoslovakia.txt
+./common/ideas/france.txt
+./common/ideas/france.txt
+./common/ideas/france.txt
+./common/ideas/france.txt
+./common/ideas/france.txt
+./common/ideas/france.txt
+./common/ideas/france.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/germany.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/greece.txt
+./common/ideas/hungary.txt
+./common/ideas/hungary.txt
+./common/ideas/hungary.txt
+./common/ideas/hungary.txt
+./common/ideas/hungary.txt
+./common/ideas/hungary.txt
+./common/ideas/italy.txt
+./common/ideas/italy.txt
+./common/ideas/italy.txt
+./common/ideas/italy.txt
+./common/ideas/japan.txt
+./common/ideas/japan.txt
+./common/ideas/japan.txt
+./common/ideas/manchuko.txt
+./common/ideas/manchuko.txt
+./common/ideas/manchuko.txt
+./common/ideas/manchuko.txt
+./common/ideas/manchuko.txt
+./common/ideas/manchuko.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/mexico.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/netherlands.txt
+./common/ideas/new_zealand.txt
+./common/ideas/new_zealand.txt
+./common/ideas/new_zealand.txt
+./common/ideas/new_zealand.txt
+./common/ideas/new_zealand.txt
+./common/ideas/new_zealand.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/poland.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/portugal.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/romania.txt
+./common/ideas/south_africa.txt
+./common/ideas/south_africa.txt
+./common/ideas/south_africa.txt
+./common/ideas/south_africa.txt
+./common/ideas/south_africa.txt
+./common/ideas/south_africa.txt
+./common/ideas/south_africa.txt
+./common/ideas/soviet.txt
+./common/ideas/soviet.txt
+./common/ideas/soviet.txt
+./common/ideas/soviet.txt
+./common/ideas/soviet.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_nationalist.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/spain_republic.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/turkey.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/usa.txt
+./common/ideas/vichy_france.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/yugoslavia.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/zzz_generic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_economic.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/ideas/_manpower.txt
+./common/national_focus/australia.txt
+./common/national_focus/australia.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/bulgaria.txt
+./common/national_focus/canada.txt
+./common/national_focus/canada.txt
+./common/national_focus/canada.txt
+./common/national_focus/canada.txt
+./common/national_focus/china_communist.txt
+./common/national_focus/china_nationalist.txt
+./common/national_focus/china_warlord.txt
+./common/national_focus/czechoslovakia.txt
+./common/national_focus/france.txt
+./common/national_focus/france.txt
+./common/national_focus/france.txt
+./common/national_focus/france.txt
+./common/national_focus/france.txt
+./common/national_focus/france.txt
+./common/national_focus/france.txt
+./common/national_focus/france.txt
+./common/national_focus/france.txt
+./common/national_focus/free_france.txt
+./common/national_focus/free_france.txt
+./common/national_focus/free_france.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/germany.txt
+./common/national_focus/greece.txt
+./common/national_focus/greece.txt
+./common/national_focus/greece.txt
+./common/national_focus/greece.txt
+./common/national_focus/hungary.txt
+./common/national_focus/hungary.txt
+./common/national_focus/india.txt
+./common/national_focus/india.txt
+./common/national_focus/india.txt
+./common/national_focus/india.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/italy.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/japan.txt
+./common/national_focus/manchukuo.txt
+./common/national_focus/mexico.txt
+./common/national_focus/mexico.txt
+./common/national_focus/mexico.txt
+./common/national_focus/mexico.txt
+./common/national_focus/mexico.txt
+./common/national_focus/mexico.txt
+./common/national_focus/mexico.txt
+./common/national_focus/mexico.txt
+./common/national_focus/mexico.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/netherlands.txt
+./common/national_focus/new_zealand.txt
+./common/national_focus/new_zealand.txt
+./common/national_focus/poland.txt
+./common/national_focus/poland.txt
+./common/national_focus/portugal.txt
+./common/national_focus/portugal.txt
+./common/national_focus/portugal.txt
+./common/national_focus/portugal.txt
+./common/national_focus/romania.txt
+./common/national_focus/romania.txt
+./common/national_focus/romania.txt
+./common/national_focus/romania.txt
+./common/national_focus/romania.txt
+./common/national_focus/romania.txt
+./common/national_focus/romania.txt
+./common/national_focus/romania.txt
+./common/national_focus/south_africa.txt
+./common/national_focus/south_africa.txt
+./common/national_focus/soviet.txt
+./common/national_focus/soviet.txt
+./common/national_focus/spain.txt
+./common/national_focus/spain.txt
+./common/national_focus/turkey.txt
+./common/national_focus/turkey.txt
+./common/national_focus/turkey.txt
+./common/national_focus/turkey.txt
+./common/national_focus/turkey.txt
+./common/national_focus/turkey.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/uk.txt
+./common/national_focus/usa.txt
+./common/national_focus/usa.txt
+./common/national_focus/usa.txt
+./common/national_focus/usa.txt
+./common/national_focus/usa.txt
+./common/national_focus/usa.txt
+./common/national_focus/usa.txt
+./common/national_focus/usa.txt
+./common/national_focus/usa.txt
+./common/national_focus/vichy_france.txt
+./common/national_focus/yugoslavia.txt
+./common/national_focus/yugoslavia.txt
+./common/occupation_laws/occupation_laws.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/00_on_actions.txt
+./common/on_actions/01_tfv_on_actions.txt
+./common/on_actions/01_tfv_on_actions.txt
+./common/on_actions/01_tfv_on_actions.txt
+./common/on_actions/01_tfv_on_actions.txt
+./common/on_actions/01_tfv_on_actions.txt
+./common/on_actions/01_tfv_on_actions.txt
+./common/on_actions/01_tfv_on_actions.txt
+./common/on_actions/01_tfv_on_actions.txt
+./common/on_actions/03_wtt_on_actions.txt
+./common/on_actions/04_mtg_on_actions.txt
+./common/on_actions/04_mtg_on_actions.txt
+./common/on_actions/05_lar_on_actions.txt
+./common/on_actions/05_lar_on_actions.txt
+./common/on_actions/05_lar_on_actions.txt
+./common/on_actions/05_lar_on_actions.txt
+./common/on_actions/05_lar_on_actions.txt
+./common/on_actions/05_lar_on_actions.txt
+./common/on_actions/05_lar_on_actions.txt
+./common/on_actions/06_bftb_on_actions.txt
+./common/on_actions/06_bftb_on_actions.txt
+./common/on_actions/06_bftb_on_actions.txt
+./common/on_actions/06_bftb_on_actions.txt
+./common/on_actions/06_bftb_on_actions.txt
+./common/operations/00_operations.txt
+./common/operations/00_operations.txt
+./common/operations/00_operations.txt
+./common/resistance_compliance_modifiers/compliance_modifiers.txt
+./common/scripted_effects/00_scripted_effects.txt
+./common/scripted_effects/BUL_scripted_effects.txt
+./common/scripted_effects/BUL_scripted_effects.txt
+./common/scripted_localisation/bftb_scripted_localisation.txt
+./common/scripted_localisation/bftb_scripted_localisation.txt
+./common/scripted_localisation/bftb_scripted_localisation.txt
+./common/scripted_triggers/00_diplo_action_valid_triggers.txt
+./common/scripted_triggers/00_diplo_action_valid_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/00_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/scripted_triggers/diplomacy_scripted_triggers.txt
+./common/technologies/air_techs.txt
+./common/technologies/armor.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/electronic_mechanical_engineering.txt
+./common/technologies/industry.txt
+./common/technologies/infantry.txt
+./common/technologies/infantry.txt
+./common/technologies/MTG_naval.txt
+./common/technologies/MTG_naval.txt
+./common/technology_tags/00_technology.txt
+./common/technology_tags/00_technology.txt
+./documentation/script_documentation.json
+./documentation/script_documentation.json
+./documentation/triggers_documentation.html
+./documentation/triggers_documentation.html
+./documentation/triggers_documentation.html
+./documentation/triggers_documentation.md
+./documentation/triggers_documentation.md
+./documentation/triggers_documentation.md
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/MTG_Britain.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Bulgaria.txt
+./events/BFTB_Greece.txt
+./events/BFTB_Greece.txt
+./events/BFTB_Turkey.txt
+./events/BFTB_Turkey.txt
+./events/BFTB_Turkey.txt
+./events/BFTB_Turkey.txt
+./events/Britain.txt
+./events/Britain.txt
+./events/Britain.txt
+./events/China.txt
+./events/China.txt
+./events/China.txt
+./events/China.txt
+./events/China.txt
+./events/China.txt
+./events/China.txt
+./events/China.txt
+./events/China.txt
+./events/DOD_Romania.txt
+./events/DOD_Romania.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/ElectionEvents.txt
+./events/France.txt
+./events/France.txt
+./events/France.txt
+./events/France.txt
+./events/France.txt
+./events/Germany.txt
+./events/Germany.txt
+./events/Japan.txt
+./events/LAR_Spain.txt
+./events/LAR_Spain.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/Mexico.txt
+./events/MTG_Netherlands.txt
+./events/NewsEvents.txt
+./events/NewsEvents.txt
+./events/NewsEvents.txt
+./events/NewsEvents.txt
+./events/NewsEvents.txt
+./events/NewsEvents.txt
+./events/NewsEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/PoliticalEvents.txt
+./events/Romania.txt
+./events/SovietUnion.txt
+./events/Spain.txt
+./events/Spain.txt
+./events/TFV_South_Africa.txt
+./events/TFV_South_Africa.txt
+./events/Turkey.txt
+./events/USA.txt
+./events/USA.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/WTT_Germany.txt
+./events/Yugoslavia.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./gfx/army_icons/army_icons.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARG - Argentina.txt
+./history/countries/ARM - Armenia.txt
+./history/countries/ARM - Armenia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AST - Australia.txt
+./history/countries/AZR - Azerbaijan.txt
+./history/countries/AZR - Azerbaijan.txt
+./history/countries/BAY - Bavaria.txt
+./history/countries/BAY - Bavaria.txt
+./history/countries/BLR - Belarus.txt
+./history/countries/BLR - Belarus.txt
+./history/countries/BOS - Bosnia.txt
+./history/countries/BOS - Bosnia.txt
+./history/countries/BRA - Brazil.txt
+./history/countries/BRA - Brazil.txt
+./history/countries/BRA - Brazil.txt
+./history/countries/BRA - Brazil.txt
+./history/countries/BRA - Brazil.txt
+./history/countries/BRA - Brazil.txt
+./history/countries/BRI - Brittany.txt
+./history/countries/BRI - Brittany.txt
+./history/countries/BRI - Brittany.txt
+./history/countries/BRI - Brittany.txt
+./history/countries/BRI - Brittany.txt
+./history/countries/BUL - Bulgaria.txt
+./history/countries/BUL - Bulgaria.txt
+./history/countries/BUL - Bulgaria.txt
+./history/countries/CAM - Cambodia.txt
+./history/countries/CAM - Cambodia.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CAN - Canada.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHI - China.txt
+./history/countries/CHL - Chile.txt
+./history/countries/CHL - Chile.txt
+./history/countries/CHL - Chile.txt
+./history/countries/CHL - Chile.txt
+./history/countries/CHL - Chile.txt
+./history/countries/CHL - Chile.txt
+./history/countries/COL - Colombia.txt
+./history/countries/COL - Colombia.txt
+./history/countries/COL - Colombia.txt
+./history/countries/COL - Colombia.txt
+./history/countries/COL - Colombia.txt
+./history/countries/COL - Colombia.txt
+./history/countries/COR - Corsica.txt
+./history/countries/COR - Corsica.txt
+./history/countries/COR - Corsica.txt
+./history/countries/COR - Corsica.txt
+./history/countries/COR - Corsica.txt
+./history/countries/CRO - Croatia.txt
+./history/countries/CRO - Croatia.txt
+./history/countries/CZE - Czechoslovakia.txt
+./history/countries/CZE - Czechoslovakia.txt
+./history/countries/DDR - East Germany.txt
+./history/countries/DDR - East Germany.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/DEN - Denmark.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/ENG - Britain.txt
+./history/countries/EST - Estonia.txt
+./history/countries/EST - Estonia.txt
+./history/countries/EST - Estonia.txt
+./history/countries/EST - Estonia.txt
+./history/countries/EST - Estonia.txt
+./history/countries/EST - Estonia.txt
+./history/countries/EST - Estonia.txt
+./history/countries/FIN - Finland.txt
+./history/countries/FIN - Finland.txt
+./history/countries/FIN - Finland.txt
+./history/countries/FIN - Finland.txt
+./history/countries/FIN - Finland.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/FRA - France.txt
+./history/countries/GEO - Georgia.txt
+./history/countries/GEO - Georgia.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GER - Germany.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GRE - Greece.txt
+./history/countries/GXC - Guangxi.txt
+./history/countries/GXC - Guangxi.txt
+./history/countries/HAN - Hanover.txt
+./history/countries/HAN - Hanover.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HOL - Holland.txt
+./history/countries/HRZ - Herzegovina.txt
+./history/countries/HRZ - Herzegovina.txt
+./history/countries/HUN - Hungary.txt
+./history/countries/HUN - Hungary.txt
+./history/countries/HUN - Hungary.txt
+./history/countries/HUN - Hungary.txt
+./history/countries/HUN - Hungary.txt
+./history/countries/INS - Indonesia.txt
+./history/countries/INS - Indonesia.txt
+./history/countries/INS - Indonesia.txt
+./history/countries/IRQ - Iraq.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/ITA - Italy.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/JAP - Japan.txt
+./history/countries/KAZ - Kazakhstan.txt
+./history/countries/KAZ - Kazakhstan.txt
+./history/countries/KOS - Kosovo.txt
+./history/countries/KOS - Kosovo.txt
+./history/countries/KUR - Kurdistan.txt
+./history/countries/KUR - Kurdistan.txt
+./history/countries/KUR - Kurdistan.txt
+./history/countries/KUR - Kurdistan.txt
+./history/countries/LAO - Laos.txt
+./history/countries/LAO - Laos.txt
+./history/countries/LAT - Latvia.txt
+./history/countries/LAT - Latvia.txt
+./history/countries/LAT - Latvia.txt
+./history/countries/LAT - Latvia.txt
+./history/countries/LAT - Latvia.txt
+./history/countries/LAT - Latvia.txt
+./history/countries/SAF - South Africa.txt
+./history/countries/SAF - South Africa.txt
+./history/countries/SAF - South Africa.txt
+./history/countries/SAF - South Africa.txt
+./history/countries/MAC - Macedonia.txt
+./history/countries/MAC - Macedonia.txt
+./history/countries/MAL - Malaysia.txt
+./history/countries/MAL - Malaysia.txt
+./history/countries/MAL - Malaysia.txt
+./history/countries/MAN - Manchukou.txt
+./history/countries/MAN - Manchukou.txt
+./history/countries/MEK - Mecklenburg.txt
+./history/countries/MEK - Mecklenburg.txt
+./history/countries/MEX - Mexico.txt
+./history/countries/MEX - Mexico.txt
+./history/countries/MEX - Mexico.txt
+./history/countries/MEX - Mexico.txt
+./history/countries/MEX - Mexico.txt
+./history/countries/MEX - Mexico.txt
+./history/countries/MEX - Mexico.txt
+./history/countries/MEX - Mexico.txt
+./history/countries/MNT - Montenegro.txt
+./history/countries/MNT - Montenegro.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NOR - Norway.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/NZL - New Zealand.txt
+./history/countries/OCC - Occitania.txt
+./history/countries/OCC - Occitania.txt
+./history/countries/OCC - Occitania.txt
+./history/countries/OCC - Occitania.txt
+./history/countries/OCC - Occitania.txt
+./history/countries/OMA - Oman.txt
+./history/countries/PAK - Pakistan.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POL - Poland.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/POR - Portugal.txt
+./history/countries/PRC - ComChina.txt
+./history/countries/PRC - ComChina.txt
+./history/countries/PRE - Prussia.txt
+./history/countries/PRE - Prussia.txt
+./history/countries/PRU - Peru.txt
+./history/countries/PRU - Peru.txt
+./history/countries/PRU - Peru.txt
+./history/countries/PRU - Peru.txt
+./history/countries/PRU - Peru.txt
+./history/countries/PRU - Peru.txt
+./history/countries/RAJ - British Raj.txt
+./history/countries/RAJ - British Raj.txt
+./history/countries/RAJ - British Raj.txt
+./history/countries/RAJ - British Raj.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/ROM - Romania.txt
+./history/countries/SAU - Saudi Arabia.txt
+./history/countries/SAX - Saxony.txt
+./history/countries/SAX - Saxony.txt
+./history/countries/SER - Serbia.txt
+./history/countries/SER - Serbia.txt
+./history/countries/SHL - Schleswig-Holstein.txt
+./history/countries/SHL - Schleswig-Holstein.txt
+./history/countries/SHX - Shanxi.txt
+./history/countries/SHX - Shanxi.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIA - Siam.txt
+./history/countries/SIK - Sinkiang.txt
+./history/countries/SIK - Sinkiang.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SOV - Soviet union.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SPR - Spain.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/SWE - Sweden.txt
+./history/countries/TRA - Transylvania.txt
+./history/countries/TRA - Transylvania.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/TUR - Turkey.txt
+./history/countries/UKR - Ukraine.txt
+./history/countries/UKR - Ukraine.txt
+./history/countries/URG - Uruguay.txt
+./history/countries/URG - Uruguay.txt
+./history/countries/URG - Uruguay.txt
+./history/countries/URG - Uruguay.txt
+./history/countries/URG - Uruguay.txt
+./history/countries/URG - Uruguay.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/USA - USA.txt
+./history/countries/VIN - Vietnam.txt
+./history/countries/VIN - Vietnam.txt
+./history/countries/WGR - West Germany.txt
+./history/countries/WGR - West Germany.txt
+./history/countries/WUR - Wurtemberg.txt
+./history/countries/WUR - Wurtemberg.txt
+./history/countries/XSM - Xibei San Ma.txt
+./history/countries/XSM - Xibei San Ma.txt
+./history/countries/YEM - Yeman.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUG - Yugoslavia.txt
+./history/countries/YUN - Yunnan.txt
+./history/countries/YUN - Yunnan.txt
+./history/states/350-Diyarbekir.txt
+./history/states/350-Diyarbekir.txt
+./history/states/283-China.txt
+./history/states/325-Yunnan.txt
+./history/states/340-Bursa.txt
+./history/states/341-Edirne.txt
+./history/states/352-Hakkari.txt
+./history/states/352-Hakkari.txt
+./history/states/353-Erzurum.txt
+./history/states/353-Erzurum.txt
+./history/states/591-Hainan.txt
+./history/states/592-Guangzhou.txt
+./history/states/594-Nanning.txt
+./history/states/599-Guanxi.txt
+./history/states/604-China 4.txt
+./history/states/616-China 14.txt
+./history/states/754-Golog.txt
+./history/states/747-Dali Bai.txt
+./history/states/753-Gannan.txt
+./history/states/755-Haixi.txt
+./history/states/756-Jiuquan.txt
+./history/states/797-Istanbul.txt
+./history/states/800-Van.txt
+./history/states/800-Van.txt
+./tests/test_AI.txt
+./tests/test_AI.txt
